@@ -1,15 +1,12 @@
-<h1 align="center">Hi 👋, I'm Judy</h1>
-<h3 align="center">I am originally an engineer trying to navigate my way around the world of BigData</h3>
+<h1 align="center">Hi, I'm Achieng'</h1>
 
-- 🔭 I’m currently working on **my Master’s degree in Computer Science, focusing on Data Science and exploring projects that leverage machine learning and artificial intelligence.**
+I am originally an Electrical and Telecommunications Engineer whose quest for building optimal systems led me into the world of data.
 
-- 🌱 I’m currently learning **advanced machine learning techniques and data analysis methodologies to enhance my skills in deriving insights from complex datasets.**
+Over the past three years, I have been working with data in different capacities, from building data pipelines as a Data Engineer to modeling and analyzing data as a Data Scientist.I enjoy discovering patterns, drawing insights and designing smart, data-driven solutions that improve system performance and decision-making.
 
-- 👯 I’m looking to collaborate on **projects contributing to the electrical engineering or telecommunication space through data science, leveraging data-driven approaches to enhance network performance and reliability**
+My background in engineering, combined with my passion for data, allows me to approach problems with both analytical depth and practical system-level thinking. I continue to grow as a better engineer through data.
 
-- 💬 Ask me about **anything telecommunication, electrical engineering, networking technologies, machine learning, and data science.**
-
-- 📫 How to reach me **www.linkedin.com/in/judy-achieng-92779417a**
+Welcome 
 
 - ⚡ Fun fact **People think I can't dance but I know the walls of my bedroom think I dance for a living🤣**
 
