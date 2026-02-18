@@ -119,8 +119,14 @@ alt="judyachieng92779417a" height="30" width="40" />
 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=judyachieng&show_icons=true&locale=en&layout=compact" alt="judyachieng" /></p>
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=judyachieng&layout=compact&theme=default" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=judyachieng&show_icons=true&locale=en" alt="judyachieng" /></p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=judyachieng&show_icons=true&theme=default" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=judyachieng&" alt="judyachieng" /></p>
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=judyachieng&theme=default" />
+</p>
