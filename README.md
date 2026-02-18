@@ -27,11 +27,6 @@ alt="judyachieng92779417a" height="30" width="40" />
 <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
 </a>
 
-<!-- Azure Data Factory -->
-<a href="https://azure.microsoft.com/en-us/products/data-factory/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="adf" width="40" height="40"/>
-</a>
-
 <!-- AWS Glue -->
 <a href="https://aws.amazon.com/glue/" target="_blank" rel="noreferrer">
 <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws_glue" width="40" height="40"/>
